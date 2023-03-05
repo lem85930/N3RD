@@ -1,6 +1,96 @@
 雷蒙影视专业版电视直播,#genre#
 雷蒙影视,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 
+
+🌞油管直播,#genre#
+中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
+中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
+三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
+三立iNews新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立iNews新闻.m3u8
+台视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/台视新闻.m3u8
+民视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/民视新闻.m3u8
+中视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中视新闻.m3u8
+TVBS News,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS.m3u8
+TVBS国际+,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://raw.githubusercontent.com/lem85930/YTM/main/寰宇新闻.m3u8
+东森财经新闻,https://raw.githubusercontent.com/lem85930/YTM/main/东森财经新闻.m3u8
+凤凰资讯台,https://raw.githubusercontent.com/lem85930/YTM/main/凤凰资讯台.m3u8
+CCTV中文国际,https://raw.githubusercontent.com/lem85930/YTM/main/CCTV中文国际.m3u8
+
+中天新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
+中天新闻2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
+三立+新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/三立新闻.m3u8
+三立iNews新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
+台视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
+民视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
+中视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
+TVBS News,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
+TVBS国际+,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
+东森财经新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
+凤凰资讯台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
+CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+
+
+🌞油管电台,#genre#
+Hit FM 北部,https://raw.githubusercontent.com/lem85930/YTM/main/HitFM北部.m3u8
+8FM 线上收听,https://raw.githubusercontent.com/lem85930/YTM/main/8FM线上收听.m3u8
+GOXUAN 够炫,https://raw.githubusercontent.com/lem85930/YTM/main/GOXUAN够炫.m3u8
+Fly FM,https://raw.githubusercontent.com/lem85930/YTM/main/FlyFM.m3u8
+HITZ,https://raw.githubusercontent.com/lem85930/YTM/main/HITZ.m3u8
+MIX,https://raw.githubusercontent.com/lem85930/YTM/main/MIX.m3u8
+ERA Muzik Hit Terkini,https://raw.githubusercontent.com/lem85930/YTM/main/ERAMuzikHitTerkini.m3u8
+
+Hit FM 北部,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/HitFM北部.m3u8
+8FM 线上收听,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/8FM线上收听.m3u8
+GOXUAN 够炫,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/GOXUAN够炫.m3u8
+Fly FM,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyFM.m3u8
+HITZ,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/HITZ.m3u8
+MIX,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/MIX.m3u8
+ERA Muzik Hit Terkini,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/ERAMuzikHitTerkini.m3u8
+
+
+🌞油管轮播,#genre#
+Good Vibes,https://raw.githubusercontent.com/lem85930/YTM/main/GoodVibes.m3u8
+Jazz Covers,https://raw.githubusercontent.com/lem85930/YTM/main/JazzCovers.m3u8
+Hits Radio 1,https://raw.githubusercontent.com/lem85930/YTM/main/RadioHitsMusic.m3u8
+Hits Top Songs,https://raw.githubusercontent.com/lem85930/YTM/main/RadioHitsMusic2.m3u8
+Pop Radio,https://raw.githubusercontent.com/lem85930/YTM/main/PopRadio.m3u8
+The K-POP,https://raw.githubusercontent.com/lem85930/YTM/main/TheKPOP.m3u8
+The K-POP2,https://raw.githubusercontent.com/lem85930/YTM/main/TheKPOP2.m3u8
+10-22年经典歌曲,https://raw.githubusercontent.com/lem85930/YTM/main/1022年经典歌曲.m3u8
+那些年我们听过的歌,https://raw.githubusercontent.com/lem85930/YTM/main/那些年我们听过的歌.m3u8
+网路流行音乐电台,https://raw.githubusercontent.com/lem85930/YTM/main/网路流行音乐电台.m3u8
+Raining Day Coffee,https://raw.githubusercontent.com/lem85930/YTM/main/RainingDayCoffee.m3u8
+Disney Bedtime,https://raw.githubusercontent.com/lem85930/YTM/main/DisneyBedtime.m3u8
+Sleeping Music,https://raw.githubusercontent.com/lem85930/YTM/main/PrizeSleepSleepingMusic.m3u8
+Relaxing Piano Music,https://raw.githubusercontent.com/lem85930/YTM/main/RelaxingPianoMusic.m3u8
+Flying Over Island,https://raw.githubusercontent.com/lem85930/YTM/main/FlyingOverIsland.m3u8
+Beautiful Nature,https://raw.githubusercontent.com/lem85930/YTM/main/BeautifulNature.m3u8
+东森娱乐LIVE,https://raw.githubusercontent.com/lem85930/YTM/main/东森娱乐live.m3u8
+东森综合台,https://raw.githubusercontent.com/lem85930/YTM/main/东森综合台.m3u8
+中视综艺LIVE,https://raw.githubusercontent.com/lem85930/YTM/main/中视综艺live.m3u8
+
+Good Vibes,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/GoodVibes.m3u8
+Jazz Covers,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/JazzCovers.m3u8
+Hits Radio 1,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RadioHitsMusic.m3u8
+Hits Top Songs,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RadioHitsMusic2.m3u8
+Pop Radio,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PopRadio.m3u8
+The K-POP,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP.m3u8
+The K-POP2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP2.m3u8
+10-22年经典歌曲,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/1022年经典歌曲.m3u8
+那些年我们听过的歌,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/那些年我们听过的歌.m3u8
+网路流行音乐电台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/网路流行音乐电台.m3u8
+Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RainingDayCoffee.m3u8
+Disney Bedtime,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/DisneyBedtime.m3u8
+Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
+Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
+Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
+Beautiful Nature,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/BeautifulNature.m3u8
+东森娱乐LIVE,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
+东森综合台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森综合台.m3u8
+中视综艺LIVE,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视综艺live.m3u8
+
 🌞百事通,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
