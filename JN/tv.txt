@@ -1,8 +1,62 @@
-雷蒙影视PRO版电视直播,#genre#
-雷蒙影视PRO,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+雷蒙影视直播,#genre#
+雷蒙影视直播,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 
+👦Lem推荐,#genre#
+重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,http://live.cooltv.top/tv/cqtv.php?id=3
+重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/6geisy.m3u8
+重庆新闻,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+重庆新闻,http://immortalwrt.lan:4022/udp/225.0.4.188:7980
+重庆新闻,http://dyzy.pub:8000/udp/235.254.197.199:7980
+重庆新闻,http://39.135.253.61/PLTV/88888888/224/3221230139/index.m3u8
+重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+重庆新闻,http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225531/chunklist.m3u8
+重庆新闻,http://stream3.xiancity.cn/5/sd/live.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,https://epg.pm/stream/45fe294eb22dab5852fa07de768de5aa64503dc3a869827ed1c0a2a2f77bba58.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+Channel [V],http://tv.huel.edu.cn/hls/channelv.m3u8
+Channel [V],http://itv.ahau.edu.cn/hls/channelv.m3u8
+Channel [V],http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
+Channel [V],http://50.7.161.82:8278/streams/d/ChannelV_pye/playlist.m3u8
+Channel [V],https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8?bycoca
+Channel [V],http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel [V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+东森娱乐LIVE(选EXO解码),https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
+东森娱乐LIVE(选EXO解码),https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
 
-🌞油管直播,#genre#
+🌞油管直播(选EXO解码),#genre#
 中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
 中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
 三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
@@ -31,8 +85,7 @@ TVBS国际+,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TV
 凤凰资讯台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
 CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
 
-
-🌞油管电台,#genre#
+🌞油管电台(选EXO解码),#genre#
 Hit FM 北部,https://raw.githubusercontent.com/lem85930/YTM/main/HitFM北部.m3u8
 8FM 线上收听,https://raw.githubusercontent.com/lem85930/YTM/main/8FM线上收听.m3u8
 GOXUAN 够炫,https://raw.githubusercontent.com/lem85930/YTM/main/GOXUAN够炫.m3u8
@@ -50,7 +103,7 @@ MIX,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/MIX.m3u8
 ERA Muzik Hit Terkini,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/ERAMuzikHitTerkini.m3u8
 
 
-🌞油管轮播,#genre#
+🌞油管轮播(选EXO解码),#genre#
 Good Vibes,https://raw.githubusercontent.com/lem85930/YTM/main/GoodVibes.m3u8
 Jazz Covers,https://raw.githubusercontent.com/lem85930/YTM/main/JazzCovers.m3u8
 Hits Radio 1,https://raw.githubusercontent.com/lem85930/YTM/main/RadioHitsMusic.m3u8
