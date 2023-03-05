@@ -1,5 +1,5 @@
-雷蒙影视专业版电视直播,#genre#
-雷蒙影视,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+雷蒙影视PRO版电视直播,#genre#
+雷蒙影视PRO,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 
 
 🌞油管直播,#genre#
