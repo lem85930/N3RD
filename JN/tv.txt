@@ -1,7 +1,7 @@
 雷蒙影视专业版电视直播,#genre#
 雷蒙影视,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 
-百事通,#genre#
+🌞百事通,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
@@ -97,7 +97,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
 
-爱尚,#genre#
+🌞爱尚,#genre#
 欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
@@ -164,7 +164,7 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 新动漫,https://live.v1.mk/aishang/xdm
 
 
-重庆有线,#genre#
+🌞重庆有线,#genre#
 欢笑剧场4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
