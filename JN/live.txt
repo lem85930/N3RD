@@ -8,9 +8,6 @@ CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8 
 广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 
-雷蒙影视PRO版,#genre#
-安装雷蒙影视PRO版享更多优质直播频道,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-
 
 Lem推荐,#genre#
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
