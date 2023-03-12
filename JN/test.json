@@ -14,6 +14,9 @@
 
 //Lem缝合包
 
+{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
+{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
+{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
 {"key":"csp_AppMr","name":"👻明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"公告1","name": "📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/ANNOUNCEMENT.json"},
 //{"key":"公告2","name": "📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Dora","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/ANNOUNCEMENT.json"},
@@ -145,9 +148,6 @@
 
 //搜索
 
-{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
-{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
-{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
 {"key":"UPanSo","name":"😺Lem专属 优盘搜(搜索)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"AliPanSou","name":"🐱Lem专属 盘搜(备用)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
