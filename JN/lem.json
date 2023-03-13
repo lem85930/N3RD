@@ -136,7 +136,6 @@
 {"key":"csp_IQIYI","name": "🥝Lem专属 爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Mgtv","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_QQ","name": "🐧Lem专属 腾讯视频(SP)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Tbook_TS","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 //{"key":"Nfyun","name":"☁Lem专属 Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
@@ -192,6 +191,7 @@
 //{"key":"csp_Slsp","name":"🍇Lem专属 石榴电影(备用)","type":3,"api":"csp_Slsp","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/石榴电影.json"},
 //{"key":"csp_ShiLiuDY","name":"🍇Lem专属 石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 //{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
+//{"key":"csp_Tbook_TS","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 
 
 //搜索
