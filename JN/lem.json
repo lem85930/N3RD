@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0313.jar;md5;D7CB36E7BB4A6C867285795C6A825BAC",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0314.jar;md5;B7DE7F888E7FFF0419A091F1822F3EFE",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0313.jar;md5;D7CB36E7BB4A6C867285795C6A825BAC",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0309.jar;md5;C7DE50BE65698FD5E27D2044F0C5C917",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0305.jar;md5;C44FE2247F33714B5BCDBB77249A769C",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0301.jar;md5;62876396D536E1D8E43A35FB5DA29C8C",
@@ -84,7 +85,7 @@
 {"key":"csp_apple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
+{"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_Fantuan","name":"🍙Lem专属 饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Lib_TS","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
@@ -101,10 +102,11 @@
 {"key":"csp_Dnsp","name":"🕶Lem专属 酷酷影视(SP)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996"},
 {"key":"csp_AppMr","name":"👻Lem专属 明日影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Hlsp","name":"💣Lem专属 黑料电影(SP)","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/黑料电影.json"},
-//{"key":"csp_Zxzj_TS","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-{"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
+{"key":"csp_Zxzj_TS","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"23a412dda32885ae2bcb97b956cd7ad4"},
+//{"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
 {"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
+{"key":"csp_IKan_TS","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"csp_Smdyy_TS","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7"},
 {"key":"csp_Ys555","name":"5️⃣️Lem专属 555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Dy555_TS","name":"5️⃣️Lem专属 555电影(备用)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
@@ -137,7 +139,6 @@
 {"key":"csp_QQ","name": "🐧Lem专属 腾讯视频(SP)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"},
-{"key":"csp_IKan_TS","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 
 
