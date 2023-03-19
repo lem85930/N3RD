@@ -1,5 +1,10 @@
 ******雷蒙影视更新日志******
 
+2023.03.19 lem0319.jar;md5;DBEE0DBBA44FFEDE63E59C8006755B55
+1. 新增FreeOk、SixV (with no search function).Just for fun :)
+
+--------------------------------------------------------------------
+
 2023.03.12 ali.jar
 1. 完善阿里系列（原画、超清、高清）。多jar写法for the very first time，因为缝合新阿里系列总是出问题。
 
