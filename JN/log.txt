@@ -1,5 +1,10 @@
 ******雷蒙影视更新日志******
 
+2023.03.20 lem0320.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A
+1. 新增69MeiJu、Bilituys(with no search function).
+2. 修复YQKAPP,Panghu.
+--------------------------------------------------------------------
+
 2023.03.19 lem0319.jar;md5;DBEE0DBBA44FFEDE63E59C8006755B55
 1. 新增FreeOk、SixV (with no search function).Just for fun :P
 
