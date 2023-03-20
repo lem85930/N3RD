@@ -12,7 +12,7 @@
 
 //Lem缝合包
 
-
+{"key":"csp_Bilituys","name":"Bilituys","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_Douban","name":"Douban","type":3,"api":"csp_Douban","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_FreeOK","name":"FreeOK","type":3,"api":"csp_FreeOK","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_Ikan","name":"Ikan","type":3,"api":"csp_Ikan","searchable":0,"filterable":0,"changeable":0},
