@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0320.jar;md5;A86B9E593AAD7AC85A3F2B0B0CBAA54C",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0320.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0319.jar;md5;DBEE0DBBA44FFEDE63E59C8006755B55",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0315.jar;md5;F23FB89E3FED6208AF828492B1660B68",
@@ -150,6 +150,7 @@
 {"key":"csp_SP33","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP33","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"🎙Lem专属 JustLive直播(SP)","type": 3,"api": "csp_Yj1211","m3u8ads":"hd.youyhn.com","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"csp_Bilituys","name":"🐇Lem专属 哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0},
 {"key":"csp_FreeOK","name":"🆗Lem专属 FreeOK(SP)","type":3,"api":"csp_FreeOK","searchable":0,"filterable":0},
 {"key":"csp_SixV","name":"6️⃣Lem专属 6V电影网(SP)","type":3,"api":"csp_SixV","searchable":0,"filterable":0},
 {"key":"csp_Xiaoh","name":"👶Lem专属 小宝影院(需翻墙)","type":"3","api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
