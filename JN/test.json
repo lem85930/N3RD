@@ -12,7 +12,6 @@
 
 //Lem缝合包
 
-{"key":"csp_Vivo","name":"Vivo","type":3,"api":"csp_Vivo","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_Dy6080","name":"Dy6080","type":3,"api":"csp_Dy6080","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_Bilituys","name":"Bilituys","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0,"changeable":0},
 {"key":"csp_Douban","name":"Douban","type":3,"api":"csp_Douban","searchable":0,"filterable":0,"changeable":0},
