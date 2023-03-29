@@ -172,7 +172,7 @@
 {"key":"csp_Ying","name":"🤖Lem专属 樱花动漫(SP)","type":3,"api":"csp_Ying","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🤖Lem专属 异界动漫(SP)","type":3,"api":"csp_Ysj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
-{"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_JianYing","m3u8ads":"hd.youyhn.com","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
+{"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","m3u8ads":"hd.youyhn.com","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"T4_独播库","name":"🧠Lem专属 独播库(T4)","type":4,"api":"https://tang.run.goorm.app/duboku","searchable":1,"quickSearch":1,"filterable":1},
 
 
