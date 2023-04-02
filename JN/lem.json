@@ -145,7 +145,7 @@
 {"key":"csp_Voflix","name":"🌀Lem专属 Voflix(SP)","type":"3","api":"csp_Voflix","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_蓝光影院","name":"💦Lem专属 蓝光影院(SP)","type":3,"api":"csp_Lgyy","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_FanYY","name":"🍚Lem专属 剥饭(SP)","type":3,"api":"csp_FanYY","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/fanyy.jar"},
+{"key":"csp_FanYY","name":"🍚Lem专属 剥饭(SP)","type":3,"api":"csp_FanYY","m3u8ads":"hd.youyhn.com","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/fanyy.jar"},
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.144.126"},
 {"key":"csp_百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
