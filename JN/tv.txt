@@ -554,8 +554,6 @@ NNM新动漫 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240321_1/pla
 
 
 🌞蜀小果,#genre# 
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV-1 综合,https://live.v1.mk/api/sxg.php?id=CCTV-1H265_4000
 CCTV-2 财经,https://live.v1.mk/api/sxg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,https://live.v1.mk/api/sxg.php?id=CCTV-3H265_4000
