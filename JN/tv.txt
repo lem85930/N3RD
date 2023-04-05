@@ -3,21 +3,7 @@
 
 
 👦Lem推荐,#genre#
-重庆新闻,http://iptva.cn/api/M3u8/Index?id=10111&card=99982475359
-重庆新闻,http://118.24.227.124/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆新闻,http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-重庆新闻,http://api2.52tb.xyz/info?id=611&token=20230218htjgzi
-重庆新闻,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,http://live.cooltv.top/tv/cqtv.php?id=3
-重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/6geisy.m3u8
-重庆新闻,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
-重庆新闻,http://immortalwrt.lan:4022/udp/225.0.4.188:7980
-重庆新闻,http://dyzy.pub:8000/udp/235.254.197.199:7980
-重庆新闻,http://39.135.253.61/PLTV/88888888/224/3221230139/index.m3u8
-重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-重庆新闻,http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225531/chunklist.m3u8
-重庆新闻,http://stream3.xiancity.cn/5/sd/live.m3u8
+重庆新闻,http://113.207.84.197:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
