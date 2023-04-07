@@ -1,5 +1,9 @@
 ******雷蒙影视更新日志******
 
+2023.04.07 lem0407.jar;md5;B9B62843DE56C489A2AB39BB654733A5
+1. 终结多jar.
+--------------------------------------------------------------------
+
 2023.03.20 lem0320.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A
 1. 新增69MeiJu、Bilituys(with no search function).
 2. 修复YQKAPP,Panghu.
