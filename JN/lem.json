@@ -129,7 +129,6 @@
 {"key":"csp_BookYs","name":"📖Lem专属 书影影视(SP)","type":3,"api":"csp_BookYs","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/bookys.jar"},
 {"key":"csp_Dnsp","name":"🕶Lem专属 酷酷影视(SP)","api":"csp_Dnsp","m3u8ads":"hd.youyhn.com","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996"},
 {"key":"csp_AppMr","name":"👻Lem专属 明日影视(SP)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Hlsp","name":"💣Lem专属 黑料电影(SP)","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/黑料电影.json"},
 {"key":"csp_Zxzj_TS","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 //{"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
 {"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
@@ -231,6 +230,7 @@
 //{"key":"csp_Pang_TS","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 //{"key":"T4_直播","name":"🖥Lem专属 电视直播(T4)","type":4,"playerType":1,"api":"http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
 //{"key":"drjs_小雅搜索","name":"🙋Lem专属 小雅搜索","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/xy.json"},
+//{"key":"csp_Hlsp","name":"💣Lem专属 黑料电影(SP)","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/黑料电影.json"},
 
 
 //搜索
