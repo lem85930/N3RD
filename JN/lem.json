@@ -239,8 +239,7 @@
 {"key":"csp_Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt$$$crimetv$$$88888888"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 {"key":"csp_UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
-//{"key":"csp_Push","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"switchable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"}
+{"key":"csp_Push","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 
 //{"key":"UPanSo","name":"😺Lem专属 优盘搜(普画可用)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 //{"key":"AliPanSou","name":"🐱Lem专属 盘搜(普画可用)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
