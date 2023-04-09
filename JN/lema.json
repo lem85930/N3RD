@@ -29,8 +29,8 @@
 
 "sites":[
 
-{"key":"T4_豆瓣搜索","name":"【🐱雷蒙影视阿里专线】 豆瓣搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://box.smjc.cc/box/JS/lib/token.txt","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drjs_豆瓣推荐","name":"【🐱雷蒙影视阿里专线】 豆瓣推荐","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/drpy.js"},
+{"key":"T4_豆瓣搜索","name":"📡雷蒙影视阿里专线 豆瓣搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://box.smjc.cc/box/JS/lib/token.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drjs_豆瓣推荐","name":"📡雷蒙影视阿里专线 豆瓣推荐","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/drpy.js"},
 
 //搜索
 
@@ -39,7 +39,6 @@
 {"key":"csp_Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt$$$crimetv$$$88888888"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 {"key":"csp_UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
-//{"key":"csp_Push","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"}
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"}
 
 ],
