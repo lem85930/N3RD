@@ -151,7 +151,7 @@
 {"key":"csp_Mtv","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_Mtv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Qtv","name": "🐧Lem专属 腾讯视频(SP)","type": 3,"api": "csp_Qtv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yj1211","name":"🎙Lem专属 JustLive直播(SP)","type": 3,"api": "csp_Yj1211","m3u8ads":"hd.youyhn.com","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/music.jar"},
 {"key":"csp_Bilituys","name":"🐇Lem专属 哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0},
 {"key":"csp_FreeOK","name":"🆗Lem专属 FreeOK(SP)","type":3,"api":"csp_FreeOK","searchable":0,"filterable":0},
 {"key":"csp_SixV","name":"6️⃣Lem专属 6V电影网(SP)","type":3,"api":"csp_SixV","searchable":0,"filterable":0},
