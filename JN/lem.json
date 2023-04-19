@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0415.jar;md5;A82C4A569D3FAA66AD48FC3FD7282ACE",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0419.jar;md5;B105D4A6871C4002CEB112DF68D418F2",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0415.jar;md5;A82C4A569D3FAA66AD48FC3FD7282ACE",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0407.jar;md5;B9B62843DE56C489A2AB39BB654733A5",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0321.jar;md5;717F447D5197C480AD59C0171C25CF07",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0320.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
@@ -66,7 +67,6 @@
 {"name":"雷蒙影视直播","type":0,"url":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"全球","type":0,"url":"https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4K8K","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"蜀小果","type":0,"url":"https://telegram-feiyangdigital.v1.mk/sxg.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"重庆有线","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FMLive","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSLive","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -167,10 +167,10 @@
 {"key":"csp_Dm84","name":"🤖Lem专属 动漫巴士(SP)","type":3,"api":"csp_Dm84","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ying","name":"🤖Lem专属 樱花动漫(SP)","type":3,"api":"csp_Ying","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🤖Lem专属 异界动漫(SP)","type":3,"api":"csp_Ysj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","m3u8ads":"hd.youyhn.com","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(SP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-
+{"key":"csp_WebDAV","name":"📜Lem专属 WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"},
+{"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 
 //{"key":"Nfyun","name":"☁Lem专属 Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
@@ -242,6 +242,7 @@
 {"key":"csp_Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt$$$crimetv$$$88888888"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 {"key":"csp_UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
+{"key":"csp_Dovx","name":"😺Lem专属 七夜(搜索)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 
 //{"key":"UPanSo","name":"😺Lem专属 优盘搜(普画可用)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
