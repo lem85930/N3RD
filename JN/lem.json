@@ -164,7 +164,6 @@
 {"key":"csp_Ysj","name":"🤖Lem专属 异界动漫(SP)","type":3,"api":"csp_Ysj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","m3u8ads":"hd.youyhn.com","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(SP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"csp_WebDAV","name":"📜Lem专属 WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 
@@ -235,6 +234,7 @@
 //{"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
 //{"key":"csp_Lezhu","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","m3u8ads":"hd.youyhn.com","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType":2,"ext": ""},
 //{"key":"csp_BookYs","name":"📖Lem专属 书影影视(SP)","type":3,"api":"csp_BookYs","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/bookys.jar"},
+//{"key":"csp_WebDAV","name":"📜Lem专属 WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"},
 
 
 //搜索
