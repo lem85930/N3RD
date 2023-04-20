@@ -264,6 +264,16 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
 
+香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+翡翠台,http://120.84.96.113:808/hls/25/index.m3u8#http://120.84.96.73:808/hls/25/index.m3u8#http://dadiao.akjp.cn:1936/0.m3u8
+明珠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+无线财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#http://120.84.96.82:808/hls/86/index.m3u8#http://120.84.96.89:808/hls/86/index.m3u8#http://120.84.96.113:808/hls/86/index.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+星空卫视,http://120.84.96.82:808/hls/79/index.m3u8#http://120.84.96.89:808/hls/79/index.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 
 🌞油管直播(选EXO解码),#genre#
 中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
