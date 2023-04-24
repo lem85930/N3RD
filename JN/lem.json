@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0423.jar;md5;A3F76F862C144CD0BCA73C1942B4486F",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0424.jar;md5;A2680DD7B1ACDDCFA6CCA870CEAECF3A",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0423.jar;md5;A3F76F862C144CD0BCA73C1942B4486F",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0422.jar;md5;CA9F4E91B7F7AF6703ACC2C61888F0B9",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0419.jar;md5;2387010E7C8F35E75875F30EEA22F486",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0415.jar;md5;A82C4A569D3FAA66AD48FC3FD7282ACE",
@@ -112,7 +113,7 @@
 {"key":"csp_Kunyu77","name":"🎬Lem专属 酷云77(备用)","type":3,"api":"csp_Kunyu77","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/wogg.jar"},
+{"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key":"csp_AppTT_TS","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 //{"key":"csp_TutuYs","name":"🗺Lem专属 图图影视(备用二)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"SRK#e%4UYtU#KiEo*vsPqpr0cC4bxAQWqiaojio6sYmm*x5hn#rcCt"},
