@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0424.jar;md5;A2680DD7B1ACDDCFA6CCA870CEAECF3A",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0425.jar;md5;BC0D7A419405EBEE0BC05726B803C6D2",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0424.jar;md5;A2680DD7B1ACDDCFA6CCA870CEAECF3A",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0423.jar;md5;A3F76F862C144CD0BCA73C1942B4486F",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0422.jar;md5;CA9F4E91B7F7AF6703ACC2C61888F0B9",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0419.jar;md5;2387010E7C8F35E75875F30EEA22F486",
@@ -166,7 +167,8 @@
 {"key":"csp_Ying","name":"🤖Lem专属 樱花动漫(SP)","type":3,"api":"csp_Ying","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🤖Lem专属 异界动漫(SP)","type":3,"api":"csp_Ysj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","m3u8ads":"hd.youyhn.com","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
-{"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(SP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(APP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"csp_AppYsV2布蕾影视","name":"👨Lem专属 布蕾影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://36.170.49.206:1818/api.php/app/"}
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 
