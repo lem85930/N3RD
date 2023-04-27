@@ -61,6 +61,9 @@ TVB Jade,https://公众号.源享家.ml/tw.php?id=16106
 重庆新闻,http://113.207.84.197:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
+凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
+凤凰中文,https://epg.pw/stream/9e3fe5f9642e7267868b40fbf117d947562cc2e9221ab020d670d1cc9bbc4800.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 Channel [V],http://tv.huel.edu.cn/hls/channelv.m3u8
 Channel [V],http://itv.ahau.edu.cn/hls/channelv.m3u8
