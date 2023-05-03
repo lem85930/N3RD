@@ -136,7 +136,7 @@
 {"key":"csp_AppMr","name":"👻Lem专属 明日影视(SP)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj_TS","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 //{"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
-{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
+{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_NongMing","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_NongMing","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(XPSP)","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
 {"key":"csp_IKan_TS","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
