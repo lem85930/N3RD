@@ -156,7 +156,6 @@
 {"key":"csp_Mtv","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_Mtv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Qtv","name": "🐧Lem专属 腾讯视频(SP)","type": 3,"api": "csp_Qtv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yj1211","name":"🎙Lem专属 JustLive直播(SP)","type": 3,"api": "csp_Yj1211","m3u8ads":"hd.youyhn.com","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_Bilituys","name":"🐇Lem专属 哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0},
 {"key":"csp_FreeOK","name":"🆗Lem专属 FreeOK(SP)","type":3,"api":"csp_FreeOK","searchable":0,"filterable":0},
 {"key":"csp_SixV","name":"6️⃣Lem专属 6V电影网(SP)","type":3,"api":"csp_SixV","searchable":0,"filterable":0},
 {"key":"csp_Xiaoh","name":"👶Lem专属 小宝影院(需翻墙)","type":"3","api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
@@ -244,6 +243,7 @@
 //{"key":"csp_WebDAV","name":"📜Lem专属 WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"},
 //{"key":"csp_FanYY","name":"🍚Lem专属 剥饭(SP)","type":3,"api":"csp_FanYY","m3u8ads":"hd.youyhn.com","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 //{"key":"csp_Lib_TS","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
+//{"key":"csp_Bilituys","name":"🐇Lem专属 哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":0,"filterable":0},
 
 
 //搜索
