@@ -14,6 +14,12 @@
 
 //Lem缝合包
 
+{"key":"csp_Mayiys","name":"🐜Lem专属 蚂蚁影视(SP)","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.144.126"},
+{"key":"csp_百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+{"key":"csp_3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
+{"key":"csp_Lezhu","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","m3u8ads":"hd.youyhn.com","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType":2,"ext": ""},
 {"key":"Yisou","name":"😺Lem专属 易搜(可用)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key":"csp_Gitcafe","name":"📜Lem专属 小纸条(可用)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key":"csp_棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.144.126"},
