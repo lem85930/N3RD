@@ -117,7 +117,7 @@
 {"key":"csp_Kunyu77","name":"🎬Lem专属 酷云77(备用)","type":3,"api":"csp_Kunyu77","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 //{"key":"csp_APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key":"csp_AppTT_TS","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_TutuYs","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
@@ -249,13 +249,13 @@
 
 //搜索
 
-{"key":"csp_PanSou","name":"🐱Lem专属 盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key":"csp_Zhaozy","name":"😺Lem专属 找资源(阿里APP扫码)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt$$$crimetv$$$88888888"},
-{"key":"csp_UpYun","name":"😺Lem专属 云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key":"csp_PanSou","name":"🐱Lem专属 盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_Zhaozy","name":"😺Lem专属 找资源(阿里APP扫码)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt$$$crimetv$$$88888888"},
+{"key":"csp_UpYun","name":"😺Lem专属 云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_Dovx","name":"😺Lem专属 七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
-{"key":"csp_PanSearch","name":"😺Lem专属 PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key":"csp_YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
-{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
+{"key":"csp_PanSearch","name":"😺Lem专属 PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 
 //{"key":"csp_Paper","name":"😺Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"csp_Gitcafe","name":"😺Lem专属 小纸条(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
