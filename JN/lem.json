@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0513.jar;md5;DBED8635C8F1C4D6B25CE0ACDE781875",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0519.jar;md5;63B41927DBAF176AB6DBE6E4732805BB",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0513.jar;md5;DBED8635C8F1C4D6B25CE0ACDE781875",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0507.jar;md5;4E43A94463BB686DD361E7E3A80BDAA9",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0506.jar;md5;EEC866DE45E02D5B64EBE04AECC326EA",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0503.jar;md5;DF140EC2E821883C7DCC9986904B850F",
@@ -262,6 +263,7 @@
 {"key":"csp_Dovx","name":"😺Lem专属 七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"😺Lem专属 PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_TuGou","name":"😺Lem专属 土狗(阿里APP扫码)","type":3,"api":"csp_TuGou","searchable":1,"changeable":0},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 
 //{"key":"csp_Paper","name":"😺Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
@@ -1682,6 +1684,10 @@
 
 
 "rules": [
+{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"非凡廣告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"火山嗅探","host":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","host":["douyin.com"],"regex":["is_play_url="]},
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
 {"host":"*", "rule":["douyin.com/aweme", "video_id="]},
