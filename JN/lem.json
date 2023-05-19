@@ -178,6 +178,8 @@
 
 {"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(APP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_AppYsV2布蕾影视","name":"👨Lem专属 布蕾影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://36.170.49.206:1818/api.php/app/"},
+{"key":"csp_AppYsV2酷酷","name":"🕶Lem专属 酷酷(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
+{"key":"csp_AppYsV2黄黄","name":"😎Lem专属 黄黄(APP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 
