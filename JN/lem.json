@@ -151,7 +151,6 @@
 {"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name": "🔟Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-{"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 {"key":"csp_SP33","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP33","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Itv","name": "🥝Lem专属 爱奇艺(SP)","type": 3,"api": "csp_Itv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Mtv","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_Mtv","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -176,10 +175,11 @@
 {"key":"csp_棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.haokantj.com"},
 {"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
 {"key":"csp_Lezhu","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","m3u8ads":"hd.youyhn.com","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType":2,"ext": ""},
+{"key":"csp_ShiLiuDY","name":"🍇Lem专属 石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 
 {"key":"csp_AppYsV269美剧","name":"🗽Lem专属 69美剧(APP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_AppYsV2布蕾影视","name":"👨Lem专属 布蕾影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://36.170.49.206:1818/api.php/app/"},
-{"key":"csp_AppYsV2酷酷","name":"🕶Lem专属 酷酷(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
+{"key":"csp_AppYsV2酷酷","name":"🕶Lem专属 酷酷(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top/api.php/app/"},
 {"key":"csp_AppYsV2红红","name":"🌈Lem专属 红红(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_AppYsV2黄黄","name":"😎Lem专属 黄黄(APP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AppYsV2熊熊","name":"🐻Lem专属 熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
@@ -234,7 +234,6 @@
 //{"key":"csp_Tian_TS","name":"🌝Lem专属 天天影视(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 //{"key":"csp_Yht","name":"🍀Lem专属 野荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 //{"key":"csp_Slsp","name":"🍇Lem专属 石榴电影(备用)","type":3,"api":"csp_Slsp","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/石榴电影.json"},
-//{"key":"csp_ShiLiuDY","name":"🍇Lem专属 石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 //{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
 //{"key":"csp_Tbook_TS","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 //{"key":"csp_Pang_TS","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
@@ -258,6 +257,7 @@
 //{"key":"csp_AppTT_TS","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 //{"key":"csp_百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","m3u8ads":"hd.youyhn.com","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 //{"key":"csp_FreeOK","name":"🆗Lem专属 FreeOK(SP)","type":3,"api":"csp_FreeOK","searchable":0,"filterable":0},
+//{"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 
 
 //搜索
