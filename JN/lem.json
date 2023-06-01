@@ -1710,10 +1710,6 @@
 
 
 "rules": [
-{"hosts":["vip.lz","hd.lz"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"hosts":["vip.ffzy","hd.ffzy"],"rule":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"hosts":["huoshan.com"],"rule":["item_id="]},
-{"hosts":["douyin.com"],"rule":["is_play_url="]},
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
 {"host":"*", "rule":["douyin.com/aweme", "video_id="]},
