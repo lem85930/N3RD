@@ -1,8 +1,8 @@
 {
 
-//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0601.jar;md5;44B79548A0CABDCFF3379578B286DCF0",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0601.jar;md5;44B79548A0CABDCFF3379578B286DCF0",
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0529.jar;md5;FDBF2573EC7F3E496F17C0F1B5114F9E",
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0529.jar;md5;FDBF2573EC7F3E496F17C0F1B5114F9E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0528.jar;md5;DD04467AAE7EA595970FBDAA1324F24D",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0526.jar;md5;78A6F55C2BF518961C87336401887FE4",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0524.jar;md5;26503DBF4EC64F24DA37597BBE8DA009",
@@ -107,7 +107,7 @@
 
 //Lem缝合包
 
-{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！！！喜欢雷蒙就夸夸雷蒙！！！"},
+{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！！！喜欢雷蒙就夸夸雷蒙！！！;30"},
 {"key":"公告1","name": "📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/ANNOUNCEMENT.json"},
 //{"key":"公告2","name": "📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Dora","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"【雷蒙影视PRO版独享功能】电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar"},
