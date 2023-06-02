@@ -122,7 +122,7 @@
 {"key":"xml_非凡资源","name":"🚀Lem专属 非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 {"key":"csp_Kunyu77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77_TS","name":"🎬Lem专属 酷云77(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
+//{"key":"csp_Kunyu77_TS","name":"🎬Lem专属 酷云77(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
 {"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt$$$http://wogg.xyz/"},
