@@ -14,6 +14,8 @@
 
 //Lem缝合包
 
+{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_KungFu404","name":"🌱有效聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_Notice","name":"公告","type":3,"api":"csp_Notice","ext":"雷蒙影视祝您儿童节快乐！！！"},
 {"key":"UPanSo","name":"😺Lem专属 优盘搜(普画可用)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"AliPanSou","name":"🐱Lem专属 盘搜(普画可用)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
@@ -163,7 +165,6 @@
 
 //搜索
 
-{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 {"key":"PanSou","name":"🐱Lem专属 盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 {"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt$$$crimetv$$$88888888"},
 //{"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/token$$$xxooo$$$qq112233"},
