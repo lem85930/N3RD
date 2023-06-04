@@ -201,6 +201,7 @@
 {"key":"csp_AppYsV2_平头哥","name":"⛄Lem专属 平头哥(APP)","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_AppYsV2_东方","name":"🐲Lem专属 东方(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 
+{"key":"T4_欧乐","name":"👌🏻Lem专属 欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 
 
