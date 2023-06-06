@@ -14,6 +14,7 @@
 
 //Lem缝合包
 
+{"key":"csp_NongMing","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_KungFu404","name":"🌱有效聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_Notice","name":"公告","type":3,"api":"csp_Notice","ext":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/notice.json"},
