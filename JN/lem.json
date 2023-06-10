@@ -171,7 +171,7 @@
 {"key":"csp_If101","name":"1️⃣Lem专属 If101(需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tangrenjie","name":"🍬Lem专属 唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"🏝Lem专属 泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Star","name":"⭐Lem专属 星星(需翻墙)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"227debe32e2e299f5b71189055a92e93"},
+{"key":"csp_Star_TS","name":"⭐Lem专属 星星(需翻墙)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"227debe32e2e299f5b71189055a92e93"},
 {"key":"csp_Anime1","name": "🤖Lem专属 Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Acg","name":"🤖Lem专属 Acg动漫(SP)","type":3,"api":"csp_Acg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🤖Lem专属 动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
