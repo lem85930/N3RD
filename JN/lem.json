@@ -323,6 +323,7 @@
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷云77.js"},
 
+{"key":"drjs_爱看机器人","name":"👺Lem专属 爱看机器人(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/drpy_ikanbot_min.js"},
 {"key":"drjs_奈飞中文","name":"👺Lem专属 奈飞中文(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/奈飞中文.js"},
 {"key":"drjs_西瓜影院","name":"👺Lem专属 西瓜影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/西瓜影院.js"},
 {"key":"drjs_咕噜","name":"👺Lem专属 咕噜(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/咕噜.js"},
