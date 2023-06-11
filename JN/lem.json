@@ -196,12 +196,14 @@
 {"key":"xml_轻简","name":"🚀Lem专属 轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
 {"key":"xml_初语","name":"🚀Lem专属 初语","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"xml_皮皮鸭","name":"🚀Lem专属 皮皮鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/夜曲.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_小猫咪","name":"🚀Lem专属 小猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url=","categories":["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
 
 {"key":"csp_AppYsV2_69美剧","name":"🗽Lem专属 69美剧(APP)","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_酷影","name":"😎Lem专属 酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_AppYsV2_酷影TV","name":"😎Lem专属 酷影TV(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"csp_AppYsV2_996","name":"🍻Lem专属 996(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
 {"key":"csp_AppYsV2_爱迪","name":"💡Lem专属 爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"csp_AppYsV2_爱迪2","name":"💡Lem专属 爱迪2(APP)","type": 3,"api":"csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_鸭鸭","name":"🦆Lem专属 鸭鸭(APP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AppYsV2_多米蓝光","name":"💧Lem专属 多米蓝光(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 {"key":"csp_AppYsV2_如意4K","name":"🚀Lem专属 如意4K(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
@@ -212,6 +214,8 @@
 {"key":"csp_AppYsV2_东方","name":"🐲Lem专属 东方(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 {"key":"csp_AppYsV2_FreeOK","name":"🆗Lem专属 FreeOK(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/api.php/app/"},
 {"key":"csp_AppYsV2_落叶","name":"🍃Lem专属 落叶(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"🎞Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
+{"key":"csp_AppYsV2_七七","name":"🎬Lem专属 七七(APP)","type":3,"api":"csp_AppYsV2","ext":"http://a.banwl.com/api.php/app/"},
 
 {"key":"T4_欧乐","name":"👌🏻Lem专属 欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
