@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0610.jar;md5;04290EE2FCADCD300DD1F188016A231E",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0612.jar;md5;02D34914CF2B15A0BD291196FB1664BB",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0610.jar;md5;04290EE2FCADCD300DD1F188016A231E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0607.jar;md5;6C478E64202EAE6F87667655C688F357",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0606.jar;md5;ECDC0BDB963038CFC6A3641D814167D8",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0601.jar;md5;9F05393D3053E60CBEAB2F7B88889BD7",
@@ -305,6 +306,7 @@
 {"key":"csp_Dovx","name":"😺Lem专属 七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"😺Lem专属 PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_Sean_TS","name":"😺Lem专属 Sean(阿里APP扫码)","type":"3","api":"csp_Sean","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_TuGou","name":"😺Lem专属 土狗(阿里APP扫码)","type":3,"api":"csp_TuGou","searchable":1,"changeable":0},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 
@@ -326,6 +328,7 @@
 
 {"key":"drjs_我的哔哩","name":"👺Lem专属 我的哔哩(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/我的哔哩.js"},
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
+{"key":"drjs_MV库","name":"👺Lem专属 MV库(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/lem85930/Lem/master/MTV.txt"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷云77.js"},
 
 {"key":"drjs_奈飞中文","name":"👺Lem专属 奈飞中文(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/奈飞中文.js"},
