@@ -30,9 +30,9 @@
 
 "sites":[
 
-{"key":"drjs_MV库_本地","name":"🎤本地","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min2.txt"},
 {"key":"drjs_MV库_网络一","name":"🎤网络一","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min3.txt"},
-{"key":"drjs_MV库_网络二","name":"🎤网络二","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.txt"}
+{"key":"drjs_MV库_网络二","name":"🎤网络二","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.txt"},
+{"key":"drjs_MV库_本地","name":"🎤本地","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min2.txt"}
 
 ],
 
