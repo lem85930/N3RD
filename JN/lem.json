@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0612.jar;md5;02D34914CF2B15A0BD291196FB1664BB",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0613.jar;md5;C525A4F0EFADD046A5484D41B2D61ACA",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0612.jar;md5;02D34914CF2B15A0BD291196FB1664BB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0610.jar;md5;04290EE2FCADCD300DD1F188016A231E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0607.jar;md5;6C478E64202EAE6F87667655C688F357",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0606.jar;md5;ECDC0BDB963038CFC6A3641D814167D8",
@@ -135,6 +136,7 @@
 //{"key":"csp_TutuYs","name":"🗺Lem专属 图图影视(备用)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
 {"key":"csp_Czsapp","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy2.com/"},
+{"key":"csp_DuoX","name":"💢Lem专属 多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Fantuan","name":"🍙Lem专属 饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Libvio","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
@@ -179,7 +181,6 @@
 {"key":"csp_Ying","name":"🤖Lem专属 樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🤖Lem专属 异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
-{"key":"csp_Miaobo","name":"🔥Lem专属 秒播(SP)","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Pang_TS","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 {"key":"csp_IKan_TS","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
@@ -299,6 +300,7 @@
 //{"key":"csp_AppYsV2红红","name":"🌈Lem专属 红红(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 //{"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xml_快播资源","name":"🚀Lem专属 快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Miaobo","name":"🔥Lem专属 秒播(SP)","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //搜索
