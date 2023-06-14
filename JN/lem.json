@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0613.jar;md5;C525A4F0EFADD046A5484D41B2D61ACA",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0614.jar;md5;7884C045FABA0B60FC13E214D3463797",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0613.jar;md5;C525A4F0EFADD046A5484D41B2D61ACA",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0612.jar;md5;02D34914CF2B15A0BD291196FB1664BB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0610.jar;md5;04290EE2FCADCD300DD1F188016A231E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0607.jar;md5;6C478E64202EAE6F87667655C688F357",
@@ -137,6 +138,7 @@
 //{"key":"csp_TutuYs","name":"🗺Lem专属 图图影视(备用)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
 {"key":"csp_Czsapp","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy2.com/"},
+{"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Fantuan","name":"🍙Lem专属 饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Libvio","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_Cokemv","name":"🥤Lem专属 Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -304,7 +306,6 @@
 //{"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xml_快播资源","name":"🚀Lem专属 快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"🔥Lem专属 秒播(SP)","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 
 
 //搜索
