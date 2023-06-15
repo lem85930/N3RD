@@ -30,7 +30,7 @@
 
 "sites":[
 
-{"key":"雷蒙影视K歌库","name":"🎤雷蒙影视K歌库🎤","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"雷蒙影视K歌库","name":"🎤雷蒙影视K歌库【选[音轨]切换原音/伴奏】🎤","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_MV库_网络一","name":"🎤网络一","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min3.txt"},
 {"key":"drjs_MV库_网络二","name":"🎤网络二","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.txt"},
 {"key":"drjs_MV库_本地","name":"🎤本地","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min2.txt"}
