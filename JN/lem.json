@@ -196,7 +196,6 @@
 {"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
 {"key":"csp_Lezhu","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType":2,"ext":""},
 
-{"key":"xml_磁力熊","name":"🚀Lem专属 磁力熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 {"key":"xml_暴风资源","name":"🚀Lem专属 暴风资源","type":1,"api":"http://bfzy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","伦理片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片"]},
 {"key":"xml_轻简","name":"🚀Lem专属 轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
 {"key":"xml_初语","name":"🚀Lem专属 初语","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","连续剧","综艺","动漫"]},
@@ -225,12 +224,9 @@
 {"key":"csp_AppYsV2_影探","name":"🎞Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_飞云","name":"🌥Lem专属 飞云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod/"},
 {"key":"csp_AppYsV2_咕噜","name":"👤Lem专属 咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
-{"key":"csp_AppYsV2_七七","name":"🎬Lem专属 七七(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
 {"key":"csp_AppYsV2_看看剧","name":"👓Lem专属 看看剧(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://kankanju.cc/api.php/app/"},
 {"key":"csp_AppYsV2_影视乐","name":"🎨Lem专属 影视乐(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.ysle.cn/api.php/app/"},
-{"key":"csp_AppYsV2_啊班","name":"🍕Lem专属 啊班(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://app.banwl.com/api.php/app/"},
 {"key":"csp_AppYsV2_布蕾","name":"👨Lem专属 布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
-{"key":"csp_AppYsV2_凡凡","name":"⛵Lem专属 凡凡(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 {"key":"csp_AppYsV2_狐狸","name":"🦊Lem专属 狐狸(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
 {"key":"T4_欧乐","name":"👌🏻Lem专属 欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
@@ -311,6 +307,10 @@
 //{"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xml_快播资源","name":"🚀Lem专属 快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"🔥Lem专属 秒播(SP)","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"xml_磁力熊","name":"🚀Lem专属 磁力熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
+//{"key":"csp_AppYsV2_七七","name":"🎬Lem专属 七七(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
+//{"key":"csp_AppYsV2_啊班","name":"🍕Lem专属 啊班(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://app.banwl.com/api.php/app/"},
+//{"key":"csp_AppYsV2_凡凡","name":"⛵Lem专属 凡凡(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 
 
 //搜索
