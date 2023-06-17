@@ -219,7 +219,6 @@
 {"key":"csp_AppYsV2_555电影","name":"5️⃣️Lem专属 555电影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dy7.com/api.php/app/"},
 {"key":"csp_AppYsV2_平头哥","name":"⛄Lem专属 平头哥(APP)","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_AppYsV2_东方","name":"🐲Lem专属 东方(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
-{"key":"csp_AppYsV2_FreeOK","name":"🆗Lem专属 FreeOK(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/api.php/app/"},
 {"key":"csp_AppYsV2_落叶","name":"🍃Lem专属 落叶(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"csp_AppYsV2_影探","name":"🎞Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_飞云","name":"🌥Lem专属 飞云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod/"},
@@ -227,7 +226,6 @@
 {"key":"csp_AppYsV2_看看剧","name":"👓Lem专属 看看剧(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://kankanju.cc/api.php/app/"},
 {"key":"csp_AppYsV2_影视乐","name":"🎨Lem专属 影视乐(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.ysle.cn/api.php/app/"},
 {"key":"csp_AppYsV2_布蕾","name":"👨Lem专属 布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
-{"key":"csp_AppYsV2_狐狸","name":"🦊Lem专属 狐狸(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
 {"key":"T4_欧乐","name":"👌🏻Lem专属 欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
@@ -311,6 +309,7 @@
 //{"key":"csp_AppYsV2_七七","name":"🎬Lem专属 七七(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
 //{"key":"csp_AppYsV2_啊班","name":"🍕Lem专属 啊班(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://app.banwl.com/api.php/app/"},
 //{"key":"csp_AppYsV2_凡凡","name":"⛵Lem专属 凡凡(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
+//{"key":"csp_AppYsV2_FreeOK","name":"🆗Lem专属 FreeOK(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/api.php/app/"},
 
 
 //搜索
