@@ -146,7 +146,6 @@
 {"key":"csp_Libvio","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_Cokemv","name":"🥤Lem专属 Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"🤿Lem专属 低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bttwoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQK","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
@@ -312,6 +311,7 @@
 //{"key":"xml_看看剧","name":"🚀Lem专属 看看剧","type":1,"api":"http://1.ahailove.cn:23450/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://www.kankanju.cc/f/jxplayer.php?v=","categories":["电影","连续剧","综艺","动漫"]},
 //{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 //{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
+//{"key":"csp_Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 //搜索
