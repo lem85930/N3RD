@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0614.jar;md5;D8476E3067D6ABEAABCAA7AEAD8559BA",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;5D6792E0A7992FCA5D745FBA94DE6148",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0614.jar;md5;D8476E3067D6ABEAABCAA7AEAD8559BA",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0613.jar;md5;C525A4F0EFADD046A5484D41B2D61ACA",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0612.jar;md5;02D34914CF2B15A0BD291196FB1664BB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0610.jar;md5;04290EE2FCADCD300DD1F188016A231E",
@@ -152,7 +153,6 @@
 {"key":"csp_YQK_TS","name":"📺Lem专属 一起看TV(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"csp_AppMr","name":"👻Lem专属 明日影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_NongMing","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(XPSP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
 {"key":"csp_Smdyy","name": "🐴Lem专属 神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -279,7 +279,6 @@
 //{"key":"csp_Tian_TS","name":"🌝Lem专属 天天影视(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 //{"key":"csp_Yht","name":"🍀Lem专属 野荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 //{"key":"csp_Slsp","name":"🍇Lem专属 石榴电影(备用)","type":3,"api":"csp_Slsp","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/石榴电影.json"},
-//{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
 //{"key":"csp_Tbook_TS","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 //{"key":"T4_直播","name":"🖥Lem专属 电视直播(T4)","type":4,"playerType":1,"api":"http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
 //{"key":"drjs_小雅搜索","name":"🙋Lem专属 小雅搜索","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/xy.json"},
@@ -311,6 +310,8 @@
 //{"key":"csp_AppYsV2_凡凡","name":"⛵Lem专属 凡凡(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 //{"key":"csp_AppYsV2_FreeOK","name":"🆗Lem专属 FreeOK(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/api.php/app/"},
 //{"key":"xml_看看剧","name":"🚀Lem专属 看看剧","type":1,"api":"http://1.ahailove.cn:23450/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://www.kankanju.cc/f/jxplayer.php?v=","categories":["电影","连续剧","综艺","动漫"]},
+//{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+//{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
 
 
 //搜索
@@ -346,6 +347,8 @@
 {"key":"drjs_MV库","name":"👺Lem专属 MV库(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷云77.js"},
 
+{"key":"drjs_厂长资源","name":"👺Lem专属 厂长资源(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/厂长资源.js"},
+{"key":"drjs_麦豆com","name":"👺Lem专属 麦豆com(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/麦豆com.js"},
 {"key":"drjs_皮皮鸭","name":"👺Lem专属 皮皮鸭(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/皮皮鸭.js"},
 {"key":"drjs_曲奇动漫","name":"👺Lem专属 曲奇动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/曲奇动漫.js"},
 {"key":"drjs_我爱跟剧","name":"👺Lem专属 我爱跟剧(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/我爱跟剧.js"},
@@ -418,7 +421,6 @@
 {"key":"drjs_啦啦DJ","name":"👺Lem专属 啦啦DJ(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/啦啦DJ.js"},
 {"key":"drjs_007影视","name":"👺Lem专属 007影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/007影视.js"},
 {"key":"drjs_58动漫","name":"👺Lem专属 58动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/58动漫.js"},
-{"key":"drjs_厂长资源","name":"👺Lem专属 厂长资源(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/厂长资源.js"},
 {"key":"drjs_种子音乐","name":"👺Lem专属 种子音乐(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/种子音乐.js"},
 {"key":"drjs_童趣","name":"👺Lem专属 童趣(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/童趣.js"},
 {"key":"drjs_好趣网","name":"👺Lem专属 好趣网(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/好趣网.js"},
@@ -584,7 +586,6 @@
 {"key":"drjs_厂长资源","name":"👺Lem专属 厂长资源(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/厂长资源.js"},
 {"key":"drjs_海兔影院","name":"👺Lem专属 海兔影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/海兔影院.js"},
 {"key":"drjs_ddys","name":"👺Lem专属 低端影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ddys.js"},
-{"key":"drjs_麦豆com","name":"👺Lem专属 麦豆com(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/麦豆com.js"},
 {"key":"drjs_麦豆","name":"👺Lem专属 麦豆(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/麦豆.js"},
 {"key":"drjs_看视界","name":"👺Lem专属 看视界(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/看视界.js"},
 {"key":"drjs_真不卡","name":"👺Lem专属 真不卡(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/真不卡.js"},
