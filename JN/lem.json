@@ -201,7 +201,7 @@
 {"key":"xml_快看","name":"️🚀Lem专属 快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
 
 {"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/"},
-{"key":"csp_AppYsV2_酷影","name":"😎Lem专属 酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+{"key":"csp_AppYsV2_北极狐","name":"😎Lem专属 北极狐(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_AppYsV2_酷影TV","name":"😎Lem专属 酷影TV(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"csp_AppYsV2_TV酷影视","name":"😎Lem专属 TV酷影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"csp_AppYsV2_996","name":"😎Lem专属 996(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
@@ -344,6 +344,7 @@
 {"key":"drjs_MV库","name":"👺Lem专属 MV库(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy2/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷云77.js"},
 
+{"key":"drjs_影探[V2]","name":"👺Lem专属 影探[V2](DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy2/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/影探[V2].js"},
 {"key":"drjs_饭团影视","name":"👺Lem专属 饭团影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy2/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/饭团影视.js"},
 {"key":"drjs_北川","name":"👺Lem专属 北川(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy2/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/北川.js"},
 {"key":"drjs_555电影","name":"👺Lem专属 555电影(DRPY)","type":3,"api":"https://agit.ai/lem85930/drpy2/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/555电影.js"},
