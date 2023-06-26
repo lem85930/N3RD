@@ -204,7 +204,7 @@
 {"key":"xml_快看","name":"️🚀Lem专属 快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
 {"key":"xml_测试","name":"🚀Lem专属 测试","type":1,"api":"https://tkznp5.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
-{"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","ext":"http://app.lyyytv.cn/yt/yt.json###jx###sites###ext###lfytyl.com"},
+{"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","ext":"http://big.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_酷影","name":"😎Lem专属 酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意","name":"😎Lem专属 如意(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 {"key":"csp_AppYsV2_布蕾","name":"😎Lem专属 布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
