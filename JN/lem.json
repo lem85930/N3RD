@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0626.jar;md5;8ACA2E169783FB560BF44B07E2A0E12A",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0626.jar;md5;0EE1F66AE531ACC2D9684D490379FEDA",
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0614.jar;md5;D8476E3067D6ABEAABCAA7AEAD8559BA",
@@ -161,6 +161,7 @@
 {"key":"csp_Auete_TS","name":"🎀Lem专属 Auete(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 {"key":"csp_Auete","name":"🎀Lem专属 Auete(备用)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Lem专属 Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix2","name":"🌀Lem专属 Voflix(备用)","type":"3","api":"csp_Voflix2","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_蓝光影院","name":"💦Lem专属 蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Dy1010","name":"🔟Lem专属 双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
@@ -323,6 +324,7 @@
 {"key":"csp_Dovx","name":"😺Lem专属 七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"😺Lem专属 PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"csp_YiSo","name":"😺Lem专属 易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
+{"key":"csp_Wogg2","name":"😺Lem专属 玩偶哥哥(阿里APP扫码)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Sean_TS","name":"😺Lem专属 Sean(阿里APP扫码)","type":"3","api":"csp_Sean","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt"},
 
