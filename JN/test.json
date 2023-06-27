@@ -14,6 +14,7 @@
 
 //Lem缝合包
 
+{"key":"csp_Voflix2","name":"🌀Lem专属 Voflix2(SP)","type":"3","api":"csp_Voflix2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5#U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=@@@U3FYMms0cWJZR2kzbzZzWQ=="},
 {"key":"Star","name":"星星","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"227debe32e2e299f5b71189055a92e93"},
 {"key":"啊班影视","name":"啊班影视","type":3,"api":"csp_Abanwl","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":""},
