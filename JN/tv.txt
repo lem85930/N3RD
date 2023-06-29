@@ -4,18 +4,8 @@
 
 👦Lem推荐,#genre#
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
-凤凰中文,http://hz752.love:63/live_a00p/hkif.php?id=fhzw
-凤凰中文,http://hz752.love:63/live_a00p/hk.php?id=fhzw
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://hz752.love:63/live_a00p/cqyx.php?id=xfjcHD
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://hz752.love:63/live_a00p/hkif.php?id=fhzx
-凤凰资讯,http://hz752.love:63/live_a00p/hk.php?id=fhzx
-凤凰香港,http://hz752.love:63/live_a00p/hkif.php?id=fhhk
-凤凰香港,http://hz752.love:63/live_a00p/hk.php?id=fhhk
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+凤凰中文,http://222.212.90.192:18000/udp/239.93.1.9:2192
+凤凰资讯,http://222.212.90.192:18000/udp/239.93.1.4:2191
 Channel [V],http://tv.huel.edu.cn/hls/channelv.m3u8
 Channel [V],http://itv.ahau.edu.cn/hls/channelv.m3u8
 Channel [V],http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
