@@ -5,7 +5,14 @@
 👦Lem推荐,#genre#
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 凤凰中文,http://222.212.90.192:18000/udp/239.93.1.9:2192
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰中文.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500
 凤凰资讯,http://222.212.90.192:18000/udp/239.93.1.4:2191
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+星空卫视.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xingkong_1500
 Channel [V],http://tv.huel.edu.cn/hls/channelv.m3u8
 Channel [V],http://itv.ahau.edu.cn/hls/channelv.m3u8
 Channel [V],http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
