@@ -155,7 +155,6 @@
 {"key":"csp_Zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_NongMing","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(XPSP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
-{"key":"csp_Smdyy","name": "🐴Lem专属 神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete_TS","name":"🎀Lem专属 Auete(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 {"key":"csp_Auete","name":"🎀Lem专属 Auete(备用)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Lem专属 Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
@@ -327,7 +326,7 @@
 //{"key":"xml_初语","name":"🚀Lem专属 初语","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","连续剧","综艺","动漫"]},
 //{"key":"xml_皮皮鸭","name":"🚀Lem专属 皮皮鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/夜曲.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_AppYsV2_多米蓝光","name":"😎Lem专属 多米蓝光(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
-
+//{"key":"csp_Smdyy","name": "🐴Lem专属 神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //搜索
