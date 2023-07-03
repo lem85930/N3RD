@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0630.jar;md5;639D1ED3BDA0ED6C5981C72E19400471",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0703.jar;md5;34EF46E340815D16D2EB3B8EA9F937C5",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0630.jar;md5;639D1ED3BDA0ED6C5981C72E19400471",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0626.jar;md5;FE1E21B8F16B4BE9B4B0906164DBB9FB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0614.jar;md5;D8476E3067D6ABEAABCAA7AEAD8559BA",
@@ -192,10 +193,16 @@
 {"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 
 {"key":"csp_ShiLiuDY","name":"🍇Lem专属 石榴电影(备用)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
+{"key":"csp_NanGua","name":"🎃Lem专属 南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+{"key":"csp_Youguo","name":"🥑Lem专属 油果视频(SP)","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DDMJ","name":"🗽Lem专属 多多美剧(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiju.co"},
+{"key":"csp_Yswc","name":"🤴Lem专属 影视王朝(SP)","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+{"key":"csp_SC1080","name":"🕐Lem专属 时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_HDMOLI","name":"🌼Lem专属 HDMOLI(SP)","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_MianHua","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.haokantj.com"},
 {"key":"csp_Music","name":"🎵Lem专属 音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
-{"key":"csp_Lezhu","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType":2,"ext":""},
+{"key":"csp_Lezhu","name":"🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
+{"key":"csp_Bdys01","name":"📯Lem专属 哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"xml_快看","name":"️🚀Lem专属 快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
 {"key":"xml_轻简","name":"🚀Lem专属 轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
@@ -205,6 +212,7 @@
 
 {"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","ext":"http://big.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_酷影","name":"😎Lem专属 酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
+{"key":"csp_AppYsV2_EMO蓝光","name":"😎Lem专属 EMO蓝光(APP)","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
 {"key":"csp_AppYsV2_如意","name":"😎Lem专属 如意(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 {"key":"csp_AppYsV2_布蕾","name":"😎Lem专属 布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
 {"key":"csp_AppYsV2_可可","name":"😎Lem专属 可可(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
@@ -309,7 +317,6 @@
 //{"key":"xml_看看剧","name":"🚀Lem专属 看看剧","type":1,"api":"http://1.ahailove.cn:23450/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://www.kankanju.cc/f/jxplayer.php?v=","categories":["电影","连续剧","综艺","动漫"]},
 //{"key":"csp_ZxzjH3","name":"📹Lem专属 在线之家(雷蒙影视PRO独享)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 //{"key":"csp_Czsapp_TS","name":"👴Lem专属 厂长资源(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
-//{"key":"csp_Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Abanwl","name":"🍕Lem专属 啊班影视(SP)","type":3,"api":"csp_Abanwl","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":""},
 //{"key":"T4_欧乐","name":"👌🏻Lem专属 欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
 //{"key":"csp_Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
