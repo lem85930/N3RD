@@ -209,10 +209,10 @@
 
 {"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","ext":"http://big.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_蘑菇","name":"😎Lem专属 蘑菇(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.moguys.xyz/api.php/app/"},
+{"key":"csp_AppYsV2_飞云","name":"😎Lem专属 飞云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.daina.hk/api.php/v1.vod"},
 {"key":"csp_AppYsV2_酷云","name":"😎Lem专属 酷云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_酷影","name":"😎Lem专属 酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
 {"key":"csp_AppYsV2_EMO蓝光","name":"😎Lem专属 EMO蓝光(APP)","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
-{"key":"csp_AppYsV2_飞云","name":"😎Lem专属 飞云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.daina.hk/api.php/v1.vod"},
 {"key":"csp_AppYsV2_如意","name":"😎Lem专属 如意(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 {"key":"csp_AppYsV2_布蕾","name":"😎Lem专属 布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
 {"key":"csp_AppYsV2_可可","name":"😎Lem专属 可可(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
