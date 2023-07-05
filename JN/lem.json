@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0703.jar;md5;34EF46E340815D16D2EB3B8EA9F937C5",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0705.jar;md5;AEF3BCCEC942EAB59FABDDC87B985C90",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0703.jar;md5;34EF46E340815D16D2EB3B8EA9F937C5",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0630.jar;md5;639D1ED3BDA0ED6C5981C72E19400471",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0626.jar;md5;FE1E21B8F16B4BE9B4B0906164DBB9FB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21",
@@ -143,6 +144,7 @@
 {"key":"csp_WoGG","name":"👽Lem专属 玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/t.txt$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Czsapp","name":"👴Lem专属 厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_MmYs","name":"🍄Lem专属 蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YGP","name":"🎞Lem专属 新片速递(SP)","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Fantuan","name":"🍙Lem专属 饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
@@ -164,7 +166,7 @@
 {"key":"csp_Dy1010","name":"🔟Lem专属 双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
-{"key":"csp_DuoX","name":"💢Lem专属 多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DuoX","name":"💢Lem专属 多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"key":"csp_YT","name":"🏵Lem专属 影探(SP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ys555","name":"5️⃣️Lem专属 555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
