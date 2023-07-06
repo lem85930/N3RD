@@ -3,6 +3,7 @@
 
 
 👦Lem推荐,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 凤凰中文,http://222.212.90.192:18000/udp/239.93.1.9:2192
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
@@ -28,6 +29,7 @@ Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
 
 
 🌞油管直播(选EXO解码),#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
 中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
 三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
@@ -58,6 +60,7 @@ CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CC
 
 
 🌞百事通,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
@@ -152,6 +155,7 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
 🌞重庆有线,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 CCTV-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
@@ -276,6 +280,7 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 
 
 🌞爱尚,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 CCTV1,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -334,6 +339,7 @@ CHC家庭影院,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240323_1/en
 
 
 🌞4K8K,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -369,6 +375,7 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 
 
 🌞歌华有线,#genre#
+雷蒙影视,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
 CCTV16-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
 CCTV-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
 CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
