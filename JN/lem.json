@@ -171,7 +171,6 @@
 {"key":"csp_YT","name":"🏵Lem专属 影探(SP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ys555","name":"5️⃣️Lem专属 555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_Dy555_TS","name":"5️⃣️Lem专属 555电影(备用)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"csp_SP33","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"📺Lem专属 360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Itv","name":"🥝Lem专属 爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
@@ -336,6 +335,7 @@
 //{"key":"xml_皮皮鸭","name":"🚀Lem专属 皮皮鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/夜曲.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_AppYsV2_多米蓝光","name":"😎Lem专属 多米蓝光(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 //{"key":"csp_Smdyy","name": "🐴Lem专属 神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Dy555_TS","name":"5️⃣️Lem专属 555电影(备用)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
 
 
 //搜索
