@@ -211,7 +211,7 @@
 {"key":"xml_轻简","name":"🚀Lem专属 轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
 {"key":"xml_小猫咪","name":"🚀Lem专属 小猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url=","categories":["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
 {"key":"xml_1080资源库","name":"🚀Lem专属 1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
-{"key":"xml_爱酷","name":"🚀Lem专属 爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]}
+{"key":"xml_爱酷","name":"🚀Lem专属 爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 
 {"key":"csp_AppYsV2_影探","name":"😎Lem专属 影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://big.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_暴风","name":"😎Lem专属 暴风(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
