@@ -240,9 +240,7 @@
 {"key":"csp_AppYsV2_明帝影视","name":"😎Lem专属 明帝影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"csp_AppYsV2_F7好剧看","name":"😎Lem专属 F7好剧看(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"}, 
 {"key":"csp_AppYsV2_鸭奈飞","name":"😎Lem专属 鸭奈飞(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
-
 {"key":"csp_AppYsV2_MULTIJAR_影探","name":"😎Lem专属 影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.lyyytv.cn/yt/yt.json###jx###sites###ext###lfytyl.com","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/hfq0706.jar"},
-{"key":"csp_AppYsV2_MULTIJAR_飞云","name":"😎Lem专属 飞云(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.daina.hk/api.php/v1.vod","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/hfq0706.jar"},
 
 {"key":"T4_蘑菇影视","name":"🍄Lem专属 蘑菇影视(T4)","type":4,"api":" https://php.iptv.hz.cz/moguys.php","searchable":1,"changeable":1},
 {"key":"csp_AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
